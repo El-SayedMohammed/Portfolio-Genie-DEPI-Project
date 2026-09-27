@@ -2,6 +2,8 @@
 
 **An AI-Powered Developer Portfolio Compiler & Static Exporter**
 
+🔗 **Live Demo:** [portfolio-liart-eta-59.vercel.app](https://portfolio-liart-eta-59.vercel.app/)
+
 🎓 Graduation Project — Digital Egypt Pioneers Initiative (DEPI), Front-End 
 React Track — Ministry of Communications & IT
 
